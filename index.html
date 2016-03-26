@@ -9,38 +9,36 @@
 	<link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-	<div class="ui inverted vertical sidebar menu visible" style="flex: 0 0 auto;">
-		<div id="brand" class="header item active blue">Brand</div>
-		<a class="active item">
-			<i class="home icon "></i>
-			Home
-		</a>
-		<a class="item">
-			Messages
-			<div class="ui label">4</div>
-		</a>
-		<a class="item">
-			Friends
-			<div class="ui label">11</div>
-		</a>
-	</div>
-	<div class="ui fixed secondary top menu inverted blue">
-		<a class="item">
-			test
-		</a>
-		<div class="right menu">
-			<div class="item">
-				<div class="ui icon input">
-					<input type="text" placeholder="Search...">
-					<i class="search link icon"></i>
+	<div id="container">
+		<div id="side">
+			<div id="side-container">
+				<div id="menu-header" class="ui secondary menu inverted blue one item">
+					<div class="header item">
+						Brand
+					</div>
+				</div>
+				<div id="menu" class="ui secondary vertical pointing menu left fixed">
+					<a class="active item">
+						Home
+					</a>
+					<a class="item">
+						Messages
+					</a>
+					<a class="item">
+						Friends
+					</a>
 				</div>
 			</div>
-			<a class="ui item">
-				Logout
-			</a>
 		</div>
-	</div>
-	<div class="pusher">
-		Test
+		<div id="content">
+			<div class="ui secondary menu inverted blue">
+				<div class="header item">
+					Test
+				</div>
+				<a class="item">
+					Test2
+				</a>
+			</div>
+		</div>
 	</div>
 </body>
