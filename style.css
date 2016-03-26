@@ -3,6 +3,10 @@ html, body, #container {
 	margin: 0;
 }
 
+body {
+	background-color: #ecf0f5;
+}
+
 #container {
 	display: -ms-flexbox;
 	display: -webkit-flex;
@@ -116,4 +120,9 @@ html, body, #container {
 	-webkit-align-self: auto;
 	-ms-flex-item-align: auto;
 	align-self: auto;
+}
+
+i.icon.LEFT {
+	float: none !important;
+	margin: 0 .35714286em 0 0 !important;
 }
