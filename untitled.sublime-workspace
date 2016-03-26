@@ -175,7 +175,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 936,
+				"buffer_size": 1137,
 				"line_ending": "Windows",
 				"name": "<!DOCTYPE html>"
 			}
@@ -184,7 +184,7 @@
 			"file": "style.css",
 			"settings":
 			{
-				"buffer_size": 298,
+				"buffer_size": 2132,
 				"line_ending": "Windows"
 			}
 		}
@@ -548,15 +548,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 936,
+						"buffer_size": 1137,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								536,
-								536
+								1050,
+								1050
 							]
 						],
 						"settings":
@@ -578,15 +578,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 298,
+						"buffer_size": 2132,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								213,
-								213
+								1143,
+								1143
 							]
 						],
 						"settings":
@@ -594,7 +594,7 @@
 							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 549.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
